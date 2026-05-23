@@ -1,10 +1,10 @@
-# PoznejFI
+# Autentizace
 
 Workshop notebooks for the FI MUNI security lab — identity verification and authentication.
 See [ABSTRAKT.md](ABSTRAKT.md) for the Czech workshop description.
 
 <p align="center">
-  <img src="docs/qr.png" alt="QR code" width="220">
+  <img src="docs/qr.png" alt="QR code" width="280">
 </p>
 
 | Notebook | Topic |
